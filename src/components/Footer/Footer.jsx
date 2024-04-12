@@ -29,9 +29,9 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
             <div className="footer-social-icons">
-                <a href='https://www.linkedin.com/in/siddharth2119chauhan/' target='blank'><img src="/linkedin.png" alt="" width="20px"/></a>
-                <a href='mailto:siddharth2119chauhan@gmail.com'><img src="/google.png" alt="email" /></a>
-                <a><img src="/github.png" alt="gthub"  /></a>
+                <a href='https://www.linkedin.com/in/siddharth2119chauhan/' target='blank'><img src="/linkedin.png" alt=""/></a>
+                <a href='mailto:siddharth2119chauhan@gmail.com' target='blank'><img src="/google.png" alt="email" /></a>
+                <a href='https://github.com/Im-Siddharthh' target='blank'><img src="/github.png" alt="gthub"  /></a>
             </div>
             </ul>
         </div>
